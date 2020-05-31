@@ -1,0 +1,8 @@
+node light.js 3001
+node light.js 3002
+node light.js 3003
+node lock.js 3004
+node lock.js 3005
+node motion_sensor.js 3006
+node thermostat.js 3007
+node weather.js 3008
